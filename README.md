@@ -1,16 +1,10 @@
 # flutter_layout
 
-A new Flutter project.
+layout 1:
 
-## Getting Started
+<img width="724" height="839" alt="2025-09-06 23:47:21" src="https://github.com/user-attachments/assets/c9c5e743-bac9-48d0-8d00-d8b1528f2bae" />
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+layout 2:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1647" height="965" alt="Screenshot 2025-09-06 at 23-47-56 lkdafjkalsdfjsf" src="https://github.com/user-attachments/assets/bf679f58-9fd6-4a1c-9370-41e9987e739e" />
